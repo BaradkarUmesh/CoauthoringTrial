@@ -1,4 +1,5 @@
 Screen1 As screen:
+    OnVisible: =Set(varCurrentUser,User())
 
     DatePicker1 As datepicker:
         X: =90
