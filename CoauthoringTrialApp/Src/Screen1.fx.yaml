@@ -1,2 +1,7 @@
 Screen1 As screen:
 
+    DatePicker1 As datepicker:
+        X: =90
+        Y: =130
+        ZIndex: =1
+
